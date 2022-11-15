@@ -1,0 +1,14 @@
+---
+galaxy_info:
+  author: Frantche
+  description: Ansible role install descheduler
+  company: Frantchenco
+  license: unlicense
+  min_ansible_version: 1.2
+  categories:
+  - cloud
+  - helm
+  - kubernetes
+  - openshift
+  - descheduler
+dependencies: {}
