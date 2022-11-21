@@ -3,10 +3,10 @@ helm_descheduler_chart_repo_url: "https://kubernetes-sigs.github.io/descheduler/
 helm_descheduler_chart_version: latest
 helm_descheduler_chart_ref: descheduler
 helm_descheduler_release_namespace: descheduler
-helm_descheduler_create_namespace: True
+helm_descheduler_create_namespace: true
 helm_descheduler_values: {}
 helm_descheduler_values_files: []
-helm_descheduler_wait: True
+helm_descheduler_wait: true
 helm_descheduler_disable_hook: "no"
 helm_descheduler_force: "no"
 helm_descheduler_atomic: "no"
