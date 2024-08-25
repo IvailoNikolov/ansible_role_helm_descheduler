@@ -1,8 +1,8 @@
 ---
 galaxy_info:
-  author: Frantche
+  author: IvailoNikolov
   description: Ansible role install descheduler
-  company: Frantchenco
+  company: IvailoNikolov
   license: unlicense
   min_ansible_version: "1.2"
   galaxy_tags:
