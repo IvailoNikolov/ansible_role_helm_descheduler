@@ -1,6 +1,6 @@
 ---
 - name: "Deploy descheduler chart"
-  frantchenco.helm_wrapper.install:
+  ivailo.helm_wrapper.install:
     name: "{{ helm_descheduler_name }}"
     chart_repo_url: "{{ helm_descheduler_chart_repo_url }}"
     chart_version: "{{ helm_descheduler_chart_version }}"

@@ -42,7 +42,7 @@ collections:
       version: 2.3.2
     - name: git+https://github.com/IvailoNikolov/ansible_collection_helm_ingress.git master
 roles:
-  - name: frantchenco.ansible_role_helm_descheduler
+  - name: ivailo.ansible_role_helm_descheduler
     type: git
     src: https://github.com/IvailoNikolov/ansible_role_helm_descheduler.git
     version: main
